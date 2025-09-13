@@ -1,0 +1,11 @@
+How to create your own Minecraft server
+1. Make sure your single-core is strong.
+2. Your RAM must be 4-16GB.
+3. Download Java 21 for 1.21 and above. Link: https://download.oracle.com/java/21/archive/jdk-21.0.7_windows-x64_bin.msi.
+4. Download PaperMC. Link: https://fill-data.papermc.io/v1/objects/8de7c52c3b02403503d16fac58003f1efef7dd7a0256786843927fa92ee57f1e/paper-1.21.8-60.jar.
+5. Create a folder with any name.
+6. Rename the downloaded PaperMC to "server."
+7. Place PaperMC in the created folder.
+8. Run "java -Xms2G -Xmx4G -jar server.jar" in CMD.
+9. Change eula=false to true in eula.txt
+10 enjoy your server

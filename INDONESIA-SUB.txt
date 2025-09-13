@@ -1,0 +1,11 @@
+Cara bikin server Minecraft sendiri 
+1 pastikan single-core kalian itu kuat
+2 ram kalian harus 4-16GB
+3 download java 21 untuk 1.21 keatas link https://download.oracle.com/java/21/archive/jdk-21.0.7_windows-x64_bin.msi
+4 download papermc link https://fill-data.papermc.io/v1/objects/8de7c52c3b02403503d16fac58003f1efef7dd7a0256786843927fa92ee57f1e/paper-1.21.8-60.jar
+5 buat folder bebas nama apa aja
+6 rename papermc hasil download dadi jadi server
+7 taroh papermc ke folder yang di buat
+8 jalain ke cmd java  -Xms2G  -Xmx4G -jar server.jar
+9 ubah eula=false ke true di eula.txt
+10 selamat menikmati server anda
